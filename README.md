@@ -1,7 +1,7 @@
 ### Olá, me chamo Francisco Naifa (ISCO)  👋
 
 - 🔭 Atualmente estudo Engenharia de Computação na UFMT
-- 🌱 Estou iniciando no front-end
+- 🌱 Estagiário
 - 😄 Pronomes: Ele/Dele
 
 <div>
@@ -18,6 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg"  width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
 </div>
   
   ## Contatos:
