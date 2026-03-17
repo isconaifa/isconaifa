@@ -1,7 +1,7 @@
 ### Olá, me chamo Francisco Naifa (ISCO)  👋
 
 - 🔭 Atualmente estudo Engenharia de Computação na UFMT
-- 🌱 Estagiário
+- 🌱 Dev Júnior
 - 😄 Pronomes: Ele/Dele
 
 <div>
