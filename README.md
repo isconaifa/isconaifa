@@ -1,4 +1,7 @@
 # Olá, eu sou Francisco Naifa (ISCO) 👋
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=isconaifa&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=false&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack+Júnior;Graduado+em+Engenharia+de+Computação;Java+%7C+Spring+Boot+%7C+Angular+%7C+Go;Sempre+aprendendo+novas+tecnologias" />
