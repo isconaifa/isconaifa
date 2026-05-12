@@ -17,13 +17,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isconaifa&show_icons=true&theme=github_dark&cache_seconds=1800" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isconaifa&layout=compact&theme=github_dark&cache_seconds=1800" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=isconaifa&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 ## 🛠️ Tecnologias
