@@ -17,10 +17,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isconaifa&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isconaifa&layout=compact&theme=transparent"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isconaifa&show_icons=true&theme=github_dark&cache_seconds=1800" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isconaifa&layout=compact&theme=github_dark&cache_seconds=1800" />
+
+</div>
 
 ---
 ## 🛠️ Tecnologias
