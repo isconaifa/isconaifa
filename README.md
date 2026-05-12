@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-✨ Transformando ideias em soluções através da tecnologia ✨
+🚀 Evoluindo constantemente como desenvolvedor e criador de soluções
 </p>
