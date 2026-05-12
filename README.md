@@ -17,9 +17,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=isconaifa&theme=github-dark&hide_border=true"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isconaifa&theme=github_dark"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isconaifa&theme=github_dark"/>
+
+</div>
 
 ---
 ## 🛠️ Tecnologias
