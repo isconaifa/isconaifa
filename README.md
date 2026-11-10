@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:francisco.naifa@sou.ufmt.br"><img src="https://img.shields.io/badge/E--mail-0E75B6?style=for-the-badge&logoColor=white" alt="E-mail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=isconaifa&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge" alt="Visualizações do perfil"/>
+  <a href="https://www.linkedin.com/in/isco-naifa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:francisco.naifa@estudante.ufsca.br"><img src="https://img.shields.io/badge/E--mail-0E75B6?style=for-the-badge&logoColor=white" alt="E-mail"/></a>
+  <img src="https://komarev.com/ghpvc/?username=isconaifa&label=Visualiza%C3%A7%C3%B5es&colorr=0e75b6&style=for-the-badge" alt="Visualizações do perfil"/>
 </p>
 
 ---
