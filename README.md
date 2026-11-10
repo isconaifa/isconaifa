@@ -73,10 +73,6 @@ Sou Engenheiro de Computação, especialista em Desenvolvimento de Sistemas com 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=isconaifa&bg_color=0d1117&color=58a6ff&title_color=58a6ff&line=00d26a&point=ffffff&area=true&area_color=00d26a&hide_border=true&custom_title=Atividade%20recente%20no%20GitHub" alt="Gráfico de contribuições"/>
-</p>
-
-<p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isconaifa&theme=github_dark" alt="Linguagens por repositório"/>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isconaifa&theme=github_dark" alt="Linguagens mais usadas em commits"/>
 </p>
