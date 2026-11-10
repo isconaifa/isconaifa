@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Mestrando+na+UFSCar;Pesquisa+em+Computa%C3%A7%C3%A3o+de+Alto+Desempenho;Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot+%7C+Angular+%7C+Go" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Mestrando+na+UFSCar;Pesquisa+em+Computa%C3%A7%C3%A3o+de+Alto+Desempenho;Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot+%7C+Angular+%7C+Go" alt="Typing SVG" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@ Sou Engenheiro de Computação, especialista em Desenvolvimento de Sistemas com 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isconaifa&theme=github_dark" alt="Resumo do perfil"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isconaifa&theme=github_dark&v=2" alt="Resumo do perfil"/>
 </p>
 
 <p align="center">
