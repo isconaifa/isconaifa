@@ -1,73 +1,99 @@
-# Olá, eu sou Francisco Naifa (ISCO) 👋
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=isconaifa&label=Profile%20views&color=0e75b6&style=flat" />
+<h1 align="center">Olá, eu sou o Francisco Naifa (ISCO) 👋</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Mestrando+na+UFSCar;Pesquisa+em+Computa%C3%A7%C3%A3o+de+Alto+Desempenho;Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot+%7C+Angular+%7C+Go" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=false&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack+Júnior;Graduado+em+Engenharia+de+Computação;Java+%7C+Spring+Boot+%7C+Angular+%7C+Go;Sempre+aprendendo+novas+tecnologias" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:francisco.naifa@sou.ufmt.br"><img src="https://img.shields.io/badge/E--mail-0E75B6?style=for-the-badge&logoColor=white" alt="E-mail"/></a>
+  <img src="https://komarev.com/ghpvc/?username=isconaifa&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge" alt="Visualizações do perfil"/>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-- 🎓 Graduado em Engenharia de Computação pela UFMT
-- 💻 Desenvolvedor Full Stack Júnior
-- 🌱 Estudando Java, Spring Boot, Angular e Go
-- ⚡ Interesse em APIs, Cloud e Arquitetura de Software
+Sou Engenheiro de Computação, especialista em Desenvolvimento de Sistemas com Java e atualmente mestrando na **UFSCar**, na linha de pesquisa em **Computação de Alto Desempenho**. Também atuo como **Desenvolvedor Full Stack**, construindo aplicações do back-end com **Java/Spring Boot** e **Go** ao front-end com **Angular**, sempre buscando código limpo, eficiente e fácil de manter.
+
+- 🌱 **Estudando:** Go, programação paralela e Arquitetura de Software
+- ⚡ **Interesses:** desempenho de sistemas, APIs, Cloud e microsserviços
+- 💼 **Aberto a:** colaborações em pesquisa e oportunidades como Desenvolvedor Full Stack ou Back-end
+
+---
+
+## 🎓 Formação
+
+- **Mestrado** (em andamento) · UFSCar · Linha de pesquisa: Computação de Alto Desempenho
+- **Especialização** em Desenvolvimento de Sistemas com Java · Facuvale
+- **Graduação** em Engenharia de Computação · UFMT
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isconaifa&theme=github_dark"/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isconaifa&theme=github_dark"/>
-
-</div>
-
----
 ## 🛠️ Tecnologias
 
-<div align="center">
-  <img alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-  <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img alt="Go" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-  <img alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-</div>
+<table align="center">
+  <tr>
+    <th>Back-end</th>
+    <th>Front-end</th>
+    <th>Banco & DevOps</th>
+    <th>Ferramentas</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="Java" title="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+      <img alt="Spring" title="Spring Boot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+      <img alt="Go" title="Go" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+    </td>
+    <td align="center">
+      <img alt="Angular" title="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
+      <img alt="TypeScript" title="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+      <img alt="JavaScript" title="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+      <img alt="HTML" title="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+      <img alt="CSS" title="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    </td>
+    <td align="center">
+      <img alt="PostgreSQL" title="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+      <img alt="Docker" title="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+    </td>
+    <td align="center">
+      <img alt="Git" title="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+      <img alt="IntelliJ IDEA" title="IntelliJ IDEA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+      <img alt="GoLand" title="GoLand" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg"/>
+      <img alt="VS Code" title="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Contato
+## 📊 Estatísticas
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isconaifa&theme=github_dark" alt="Estatísticas"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isconaifa&theme=github_dark" alt="Linguagens"/>
+</p>
 
-<a href="https://instagram.com/isco_naifa" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=isconaifa&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+</p>
 
-<a href="mailto:contato@francisco.naifa@sou.ufmt.br">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-<a href="https://github.com/isconaifa" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## 🐍 Contribuições
 
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isconaifa/isconaifa/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isconaifa/isconaifa/output/github-snake.svg" />
+    <img alt="Cobra comendo minhas contribuições" src="https://raw.githubusercontent.com/isconaifa/isconaifa/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
 <p align="center">
-🚀 Evoluindo constantemente como desenvolvedor e criador de soluções
+  <i>"Evoluindo constantemente como desenvolvedor e criador de soluções."</i> 🚀
 </p>
