@@ -49,6 +49,7 @@ Sou Engenheiro de Computação, especialista em Desenvolvimento de Sistemas com 
     </td>
     <td align="center">
       <img alt="Angular" title="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
+      <img alt="PrimeNG" title="PrimeNG" height="40" src="https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge"/>
       <img alt="TypeScript" title="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
       <img alt="JavaScript" title="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
       <img alt="HTML" title="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -72,12 +73,12 @@ Sou Engenheiro de Computação, especialista em Desenvolvimento de Sistemas com 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isconaifa&theme=github_dark" alt="Estatísticas"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isconaifa&theme=github_dark" alt="Linguagens"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isconaifa&theme=github_dark" alt="Resumo do perfil"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=isconaifa&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isconaifa&theme=github_dark" alt="Linguagens por repositório"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isconaifa&theme=github_dark" alt="Linguagens mais usadas em commits"/>
 </p>
 
 ---
